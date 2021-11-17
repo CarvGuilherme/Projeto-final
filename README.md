@@ -1,8 +1,8 @@
 ## Objetivo do Sistema
   O objetivo deste trabalho é desenvolver um jogo de perguntas e respostas,
-  No qual um ou mais jogadores jogam uma partida com personagens e habilidades.
-  O jogo e simples, seus personagens começam com 100% e se envolvem em uma serie de perguntas na qual suas escolhas impactam diretamente na saude dos mesmos, assim     que um jogador chega a 0% de vida o jogo e finalizado e o vencedor e exibido no console.
-  As perguntas no jogo são retiradas dos estudos de logica e programação.
+  no qual um ou mais jogadores jogam uma partida com personagens e habilidades.
+  O jogo é simples, seus personagens começam com 100% de saúde e se envolvem em uma serie de perguntas na qual suas escolhas impactam diretamente na saúde dos mesmos, assim     que um jogador chega a 0% de vida o jogo é finalizado e o vencedor é exibido no console.
+  As perguntas no jogo são retiradas dos estudos de logica, programação e modelagem de software.
 
 ## Definições e Siglas
 [Adicionar um link para definições e siglas]
